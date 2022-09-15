@@ -1,6 +1,7 @@
 ### Hi friends. 😉
 
-_________
+---
+
 About me:
 
 - 💻 I’m developer
@@ -21,18 +22,21 @@ About me:
   <img height="20em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
-____
+---
 
 <div align="center">
   <a href="https://github.com/aliciamendes" target="_blank">
-  <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aliciamendes&theme=github_dark&show_icons=true"/>
-  <img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliciamendes&layout=compact&langs_count=7&theme=github_dark"/>
- 
+
+  <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aliciamendes&theme=github_dark&show_icons=true&amp;include_all_commits=true&amp;count_private=true"/>
+
+  <img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliciamendes&layout=compact&langs_count=8&theme=github_dark"/>
+
 </div>
 
-____
+---
 
-#####Tecnologias que utilizo 👨‍💻
+##### Tecnologias que utilizo 👨‍💻
+
 <div>
  <img height="20em" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
  <img height="20em" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
