@@ -17,16 +17,11 @@ As a systems analyst and developer at KnowBI, I have an innate curiosity for sol
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliciamendes&theme=algolia" alt="candida18" /></p>
 
-![snake gif](https://github.com/aliciamendes/aliciamendes/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 <div align="center">
-  <a href="https://github.com/aliciamendes" target="_blank">
-
-  <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aliciamendes&theme=github_dark&show_icons=true&amp;include_all_commits=true&amp;count_private=true"/>
-
-
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&username=aliciamendes" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&username=aliciamendes" height="150" alt="languages graph"  />
 </div>
 
 <br/>
