@@ -1,26 +1,23 @@
-### Hi friends. 😉
+<h1 align="center">
+Helo, i'm Alícia
+</h1>
+
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=aliciamendes&label=Alícia%20Profile%20Views%20&color=dc143c&style=plastic" alt="Alícia" /> </p>
 
 ---
 
-About me:
+<h4 align="justify">
+As a systems analyst and developer at KnowBI, I have an innate curiosity for solving problems and creating innovative solutions. My approach is collaborative, and I'm always ready to explore new opportunities. I am committed to constant growth in the dynamic world of technology, and I seek challenges that will boost my personal and professional development.
+</h4>
 
-- 💻 I’m developer
-- 🌱 I’m currently learning javascript and python
-- 🚧 I'm workin on it...
+---
 
-<div align="center">
-  <a href="mailto:aliciabmendes@gmail.com" target="_blank">
-  <img height="20em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+## Streak Stats
 
-  <a href="https://www.instagram.com/aliciamesmo/" target="_blank">
-  <img height="20em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliciamendes&theme=algolia" alt="candida18" /></p>
 
-  <a href="https://t.me/aliciamesmo" target="_blank">
-  <img height="20em" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-
-  <a href="https://www.linkedin.com/in/aliciagbmendes/" target="_blank">
-  <img height="20em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</div>
+![snake gif](https://github.com/aliciamendes/aliciamendes/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -29,19 +26,92 @@ About me:
 
   <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aliciamendes&theme=github_dark&show_icons=true&amp;include_all_commits=true&amp;count_private=true"/>
 
-  <img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliciamendes&layout=compact&langs_count=8&theme=github_dark"/>
 
 </div>
 
----
+<br/>
 
-##### Tecnologias que utilizo 👨‍💻
+## My Skills
 
-<div>
- <img height="20em" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
- <img height="20em" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
- <img height="20em" alt="reactnative" src="https://img.shields.io/badge/MySQL-1471b0?style=for-the-badge&logo=mysql&logoColor=white"/>
- <img height="20em" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
- <img height="20em" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img height="20em" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+### Programming languages
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%2300599C.svg?logo=typescript&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray">
+   </a>
+  &emsp;
+   <a href="https://www.python.org/" target="_blank">
+    <img alt="Dart" src="https://img.shields.io/badge/Python%20-%231572B6.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+</p>
+
+### Frontend Development
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+  &emsp;
+&emsp; 
+</p>
+
+### Databases
+
+<p align="left">
+  &emsp;
+    <a href="https://www.postgresql.org/"><img alt="Pstgree SQL" src ="https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white"/></a>
+  &emsp;
+</p>
+
+### Frameworks
+
+<p align="left">
+
+&emsp;&ensp;![Angular](https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white)
+&emsp;&ensp;![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)
+&emsp;&ensp;![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
+
+</p>
+
+### Software & Tools
+
+<p>
+  &emsp;
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white"></a>
+ &emsp; 
+</p>
+
+<br/>
+
+## Let's Communicate 😊
+
+<div align="center">
+  &emsp;
+  <a href="mailto:aliciabmendes@gmail.com" target="_blank">
+  <img height="20em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  &emsp;
+  <a href="https://www.instagram.com/aliciamesmo/" target="_blank">
+  <img height="20em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  &emsp;
+  <a href="https://t.me/aliciamesmo" target="_blank">
+  <img height="20em" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  &emsp;
+  <a href="https://www.linkedin.com/in/aliciagbmendes/" target="_blank">
+  <img height="20em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    &emsp;
 </div>
