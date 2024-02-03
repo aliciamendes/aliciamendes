@@ -5,7 +5,6 @@ Helo, i'm Alícia
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=aliciamendes&label=Alícia%20Profile%20Views%20&color=dc143c&style=plastic" alt="Alícia" /> </p>
 
----
 
 <h4 align="justify">
 As a systems analyst and developer at KnowBI, I have an innate curiosity for solving problems and creating innovative solutions. My approach is collaborative, and I'm always ready to explore new opportunities. I am committed to constant growth in the dynamic world of technology, and I seek challenges that will boost my personal and professional development.
@@ -16,6 +15,12 @@ As a systems analyst and developer at KnowBI, I have an innate curiosity for sol
 ## Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliciamendes&theme=algolia" alt="candida18" /></p>
+
+<br/>
+
+---
+
+<img src="https://raw.githubusercontent.com/aliciamendes/aliciamendes/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 ---
 
